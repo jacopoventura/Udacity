@@ -1,7 +1,9 @@
 In this project, the OpenStreeMap database relative to the city of Venice Mestre in investigated for assessing data quality for validity, accuracy, completeness, consistency and uniformity,
-Wrong data are corrected when possible
+Wrong data are corrected if needed
 
+The OpenStreetMap dataset analyzed in this problem consists of the map of Mestre Venice and can be downloaded from
 
+https://drive.google.com/open?id=0B_UPPbzpvOBSQWRfQmQyNldFMlk
 
 After auditing is complete the next step is to prepare the data to be inserted into a SQL database.
 To do so you will parse the elements in the OSM XML file, transforming them from document format to
